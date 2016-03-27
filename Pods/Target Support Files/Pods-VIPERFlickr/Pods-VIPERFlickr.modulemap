@@ -1,0 +1,6 @@
+framework module Pods_VIPERFlickr {
+  umbrella header "Pods-VIPERFlickr-umbrella.h"
+
+  export *
+  module * { export * }
+}

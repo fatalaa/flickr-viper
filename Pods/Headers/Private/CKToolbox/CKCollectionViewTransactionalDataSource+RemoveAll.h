@@ -1,0 +1,1 @@
+../../../CKToolbox/Modules/RemoveAll/CKCollectionViewTransactionalDataSource+RemoveAll.h
